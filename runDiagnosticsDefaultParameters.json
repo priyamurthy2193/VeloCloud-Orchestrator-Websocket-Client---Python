@@ -1,0 +1,12 @@
+{
+    "ARP_DUMP": {
+        "count": 100
+    },
+    "CLEAR_ARP": {
+        "interface": ""
+    },
+    "DNS_TEST": {
+        "name": "www.google.com"
+    },
+    "RESTART_DNSMASQ": {}
+}
