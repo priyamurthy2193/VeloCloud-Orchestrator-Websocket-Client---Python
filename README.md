@@ -12,4 +12,4 @@ A VCO sample script which allows you to perform Remote Diagnostics actions on an
 
 Execute remoteDiagnosticsDemo.py and follow instructions provided by the terminal application.
 Sample Input command:
-ARP_DUMP 100 "edgeLogicalId"
+ARP_DUMP "edgeLogicalId" 100
